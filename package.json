@@ -1,0 +1,25 @@
+{
+  "name": "@themythicalcoder/caesar-cipher-encryption",
+  "version": "1.0.0",
+  "description": "Encrypt and Decrypt Data using Caesar Cipher Encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishi963/Caesar-Cipher-Encryption.git"
+  },
+  "keywords": [
+    "encryption",
+    "decryption",
+    "security",
+    "caesarcipher"
+  ],
+  "author": "Rishikesh R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishi963/Caesar-Cipher-Encryption/issues"
+  },
+  "homepage": "https://github.com/Rishi963/Caesar-Cipher-Encryption#readme"
+}
