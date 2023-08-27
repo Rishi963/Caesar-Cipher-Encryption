@@ -4,7 +4,9 @@ given data using the ** _Caesar Cipher Encryption_**.
 ## Docs!
 Import the module and call the cipher function with the paramaeters.
 > Data   : Data that need to be encrypted or decrypted.
+
 > Shift  : Shift value, eg: 2.
+
 > Method : Encryption or Decryption
 
 Use the `encrypt` method to encrypt the data.
